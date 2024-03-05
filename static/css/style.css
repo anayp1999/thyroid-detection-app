@@ -1,11 +1,11 @@
 .bg-nav {
-  background: #ffafbd; /* fallback for old browsers */
-  background: -webkit-linear-gradient(
+  background: #0abfbc; /* fallback for old browsers */
+  /*background: -webkit-linear-gradient(
     to right,
     #0abfbc,
     #ffafbd
   ); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(
+  /*background: linear-gradient(
     to right,
     #0abfbc,
     #ffafbd
@@ -13,13 +13,13 @@
 }
 
 .bg-result {
-  background: #fc354c; /* fallback for old browsers */
-  background: -webkit-linear-gradient(
+  background: #0abfbc; /* fallback for old browsers */
+  /*background: -webkit-linear-gradient(
     to right,
     #ffc3a0,
     #fc354c
   ); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(
+  /*background: linear-gradient(
     to right,
     #ffc3a0,
     #fc354c
